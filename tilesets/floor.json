@@ -1,0 +1,14 @@
+{ "columns":36,
+ "image":"..\/tile_images\/floor.png",
+ "imageheight":1008,
+ "imagewidth":1152,
+ "margin":0,
+ "name":"floor",
+ "spacing":0,
+ "tilecount":1116,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
