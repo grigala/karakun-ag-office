@@ -69,11 +69,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Maui"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -200,11 +195,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Coffee & Tea"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,11 +213,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Feast"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -246,11 +231,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Beer Party"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -269,11 +249,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Iceland"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -292,11 +267,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Malta"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -315,11 +285,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Capri"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -410,11 +375,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Borneo"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -472,7 +432,120 @@
          "draworder":"topdown",
          "id":26,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":18.84375,
+                 "id":2,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Lucida Grande",
+                     "halign":"center",
+                     "pixelsize":24,
+                     "text":"Borneo",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":89.546875,
+                 "x":1219.33,
+                 "y":66.37
+                }, 
+                {
+                 "height":18.84375,
+                 "id":3,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Lucida Grande",
+                     "halign":"center",
+                     "pixelsize":24,
+                     "text":"Maui",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":89.546875,
+                 "x":1274.91,
+                 "y":269.525493421053
+                }, 
+                {
+                 "height":18.84375,
+                 "id":4,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Lucida Grande",
+                     "halign":"center",
+                     "pixelsize":24,
+                     "text":"Iceland",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":89.546875,
+                 "x":979.23,
+                 "y":357.683388157895
+                }, 
+                {
+                 "height":26.84,
+                 "id":5,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Lucida Grande",
+                     "halign":"center",
+                     "pixelsize":24,
+                     "text":"Capri",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":89.546875,
+                 "x":675.33,
+                 "y":32.95
+                }, 
+                {
+                 "height":0,
+                 "id":15,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":2.63157894736842,
+                 "x":-23.6842105263158,
+                 "y":-176.315789473684
+                }, 
+                {
+                 "height":18.84375,
+                 "id":22,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Lucida Grande",
+                     "halign":"center",
+                     "pixelsize":24,
+                     "text":"Malta",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":89.546875,
+                 "x":594.259106721188,
+                 "y":870.214145324964
+                }],
+         "offsetx":0.406851377191742,
+         "offsety":-0.406851377191913,
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -480,7 +553,7 @@
          "y":0
         }],
  "nextlayerid":65,
- "nextobjectid":1,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
