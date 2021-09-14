@@ -543,6 +543,26 @@
                  "width":89.546875,
                  "x":594.259106721188,
                  "y":870.214145324964
+                }, 
+                {
+                 "height":18.84375,
+                 "id":23,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Lucida Grande",
+                     "halign":"center",
+                     "pixelsize":24,
+                     "text":"IDEA-13",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":105.55,
+                 "x":1266.83,
+                 "y":326.033700783192
                 }],
          "offsetx":0.406851377191742,
          "offsety":-0.406851377191913,
@@ -553,7 +573,7 @@
          "y":0
         }],
  "nextlayerid":65,
- "nextobjectid":23,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
