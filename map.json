@@ -64,12 +64,6 @@
          "id":65,
          "name":"Innovation Confluence",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/confluence.karakun.com\/display\/CIW\/Innovation"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -664,7 +658,7 @@
                  "type":"",
                  "visible":true,
                  "width":164.55,
-                 "x":1214.95,
+                 "x":1206.95,
                  "y":648.26
                 }],
          "offsetx":0.406851377191742,
